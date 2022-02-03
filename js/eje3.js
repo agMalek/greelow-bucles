@@ -6,6 +6,7 @@
 
 let arr = [4,5,734,43,45]
 
+/* el número agregado será de entre 0 y 99 */
 arr.push(Math.floor(Math.random()*100))
 arr.push(Math.floor(Math.random()*100))
 
