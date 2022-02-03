@@ -13,13 +13,15 @@
 
 let mySampleArray = [3423,5,4,47889,654,8,867543,23,48,56432,55,23,25,12];
 
-/* CON FOR */
+// CON FOR
+console.log("---------- CON FOR ------------")
 for(let i = mySampleArray.length-1; i>=0; i--){
     console.log(mySampleArray[i]);
 }
 
 
-/* CON WHILE */
+// CON WHILE
+console.log("---------- CON WHILE ------------")
 let i = mySampleArray.length-1
 while(i>=0){
     console.log(mySampleArray[i]);

@@ -1,5 +1,5 @@
 /* 
-    ------------------- EJERCICIO 7 ----------------
+    ------------------- EJERCICIO 12 ----------------
     En este momento, el código está imprimiendo todos los elementos en el arreglo o array:
     
     1. Cambia el código de la función para imprimir solo los números divisibles por 14.
